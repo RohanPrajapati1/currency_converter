@@ -12,7 +12,7 @@ const msg = document.querySelector(".final-msg")
 //     console.log(code , countryList[code]);
 // }
 
-let i = 0;
+
 
 for(let select of dropdown){
     for(currCode in countryList){
